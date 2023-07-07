@@ -14,7 +14,7 @@ The appendixer will then use the cosine similarity(NLP model) to find the neares
 At last the model will the most relevant paragraph to the user.
 
 
-## Use of ai in the data appendixer
+## Use of AI in the data appendixer
 The model works on Natural Language Processing Branch of AI.
 It uses Cosine similarity to find the match between the keyword inputted by the user and the data provided to find the most relevant sentence.
 Later this sorted sentence is used to return the useful paragraph.
